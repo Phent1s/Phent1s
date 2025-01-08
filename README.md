@@ -39,6 +39,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
 <!--
 **Phent1s/Phent1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
