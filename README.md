@@ -21,6 +21,10 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-ovcharuk-022183291/)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 <!--
 **Phent1s/Phent1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
