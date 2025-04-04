@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Phent1s&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hello there, I'm <a href="https://www.example.com">Phent1s</a>!
+  Hello there, I'm <a href="https://github.com/Phent1s">Altifon</a>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
